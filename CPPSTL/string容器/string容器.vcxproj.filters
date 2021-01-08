@@ -30,5 +30,14 @@
     <ClCompile Include="05 string容器-字符串比较.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="06 string容器-字符存取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="07 string容器-插入和删除.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="08 string容器-子串获取.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

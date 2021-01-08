@@ -144,6 +144,9 @@
     <ClCompile Include="03 string容器-字符串拼接.cpp" />
     <ClCompile Include="04 string容器-字符串查找和替换.cpp" />
     <ClCompile Include="05 string容器-字符串比较.cpp" />
+    <ClCompile Include="06 string容器-字符存取.cpp" />
+    <ClCompile Include="07 string容器-插入和删除.cpp" />
+    <ClCompile Include="08 string容器-子串获取.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
