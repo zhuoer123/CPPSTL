@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "员工分组", "员工分�
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "函数对象", "函数对象\函数对象.vcxproj", "{130F2B2B-3523-4B54-9BB6-F47D60FED44F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "适配器", "适配器\适配器.vcxproj", "{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{130F2B2B-3523-4B54-9BB6-F47D60FED44F}.Release|x64.Build.0 = Release|x64
 		{130F2B2B-3523-4B54-9BB6-F47D60FED44F}.Release|x86.ActiveCfg = Release|Win32
 		{130F2B2B-3523-4B54-9BB6-F47D60FED44F}.Release|x86.Build.0 = Release|Win32
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Debug|x64.ActiveCfg = Debug|x64
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Debug|x64.Build.0 = Debug|x64
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Debug|x86.ActiveCfg = Debug|Win32
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Debug|x86.Build.0 = Debug|Win32
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Release|x64.ActiveCfg = Release|x64
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Release|x64.Build.0 = Release|x64
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Release|x86.ActiveCfg = Release|Win32
+		{141E80EF-4C00-4DA7-82B0-EF217AB0FA65}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
