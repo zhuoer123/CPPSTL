@@ -140,6 +140,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="01 函数对象适配器.cpp" />
+    <ClCompile Include="02 取反适配器.cpp" />
+    <ClCompile Include="03 函数指针适配器和成员函数适配器.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

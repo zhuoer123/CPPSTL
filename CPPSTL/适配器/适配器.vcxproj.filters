@@ -18,5 +18,11 @@
     <ClCompile Include="01 函数对象适配器.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="02 取反适配器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="03 函数指针适配器和成员函数适配器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
