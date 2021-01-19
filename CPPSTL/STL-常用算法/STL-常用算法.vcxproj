@@ -24,6 +24,7 @@
     <ProjectGuid>{f6e9dcc8-7bd5-4e2d-90e0-007880bc11aa}</ProjectGuid>
     <RootNamespace>STL常用算法</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>STL-常用遍历与查找算法</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -141,6 +142,12 @@
   <ItemGroup>
     <ClCompile Include="01 遍历-for_each.cpp" />
     <ClCompile Include="02 遍历-transform.cpp" />
+    <ClCompile Include="03 查找-find.cpp" />
+    <ClCompile Include="04 查找-find_if.cpp" />
+    <ClCompile Include="05 查找-adjacent_find.cpp" />
+    <ClCompile Include="06 查找-binary_search.cpp" />
+    <ClCompile Include="07 查找-count.cpp" />
+    <ClCompile Include="08 查找-count_if.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
